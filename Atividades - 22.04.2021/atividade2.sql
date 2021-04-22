@@ -1,4 +1,3 @@
-drop database db_pizzaria_legal;
 -- criação do banco de dados
 create database db_pizzaria_legal;
 
